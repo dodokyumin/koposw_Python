@@ -1,0 +1,1 @@
+jupyter notebook "C:\Users\501-01\Documents\koposw_Python"
